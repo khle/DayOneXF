@@ -1,0 +1,15 @@
+/Users/kevinle/Projects/DayOneXF/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/kevinle/Projects/DayOneXF/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/kevinle/Projects/DayOneXF/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/kevinle/Projects/DayOneXF/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/kevinle/Projects/DayOneXF/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/kevinle/Projects/DayOneXF/iOS/bin/iPhoneSimulator/Debug/DayOneXF.iOS.exe.mdb
+/Users/kevinle/Projects/DayOneXF/iOS/bin/iPhoneSimulator/Debug/DayOneXF.iOS.exe
+/Users/kevinle/Projects/DayOneXF/iOS/obj/iPhoneSimulator/Debug/DayOneXF.iOS.exe
+/Users/kevinle/Projects/DayOneXF/iOS/obj/iPhoneSimulator/Debug/DayOneXF.iOS.exe.mdb
+/Users/kevinle/Projects/DayOneXF/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/kevinle/Projects/DayOneXF/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/kevinle/Projects/DayOneXF/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/kevinle/Projects/DayOneXF/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/kevinle/Projects/DayOneXF/iOS/bin/iPhoneSimulator/Debug/DayOneXF.dll
+/Users/kevinle/Projects/DayOneXF/iOS/bin/iPhoneSimulator/Debug/DayOneXF.dll.mdb
